@@ -1,0 +1,1 @@
+document.body.innerHTML = prompt("напиши что-то в тело")
